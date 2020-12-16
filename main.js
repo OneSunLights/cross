@@ -1,3 +1,4 @@
+// Игра: крестики нолики
 let gameOX = {
     spot: 0,
     result: "",
